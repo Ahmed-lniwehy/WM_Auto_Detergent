@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T14:40:26.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="nX7YpPVqHWmLxAft8hbq" version="21.6.8" type="github">
-  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2023-08-18T14:49:28.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Qy4N3ASFLm91pbS680ah" version="21.6.8" type="github" pages="4">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Flow_Chart">
     <mxGraphModel dx="2217" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -200,6 +200,30 @@
         <mxCell id="bVfaZKKpS5kE_KQOGeAX-161" value="Select_Wash_Mode" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" width="159" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5X0bbEZTyEA02BJ1dsUY" name="Sequence_Diagram">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FBZwtuimFurRkxS-zMVU" name="Context_Diagram">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uGU-4VdOGd2vMpLkS1f2" name="Block_Diagram">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
